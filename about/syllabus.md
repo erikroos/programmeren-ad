@@ -2,7 +2,7 @@
 
 ![](../images/itan_logo_black_wordmark.png) ![](../images/hanze_logo_black_wordmark.png)
 
-# Programmeren
+# Programmeren voor de AD van ICT
 
 Welkom bij Programmeren!
 
