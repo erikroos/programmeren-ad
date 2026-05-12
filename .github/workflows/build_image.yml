@@ -18,3 +18,4 @@ jobs:
         BINDER_CACHE: true
         PUBLIC_REGISTRY_CHECK: true
         IMAGE_NAME: infinodus/hanze-hbo-ict-programmeren
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
